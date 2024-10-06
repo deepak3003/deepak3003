@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer**
 - 💻 I’m currently working on **FoodOrderingSystem**.
 - 🔭 I’m proficient in **Java, DSA, HTML, CSS**.
 
-## 💼 Projects
+## 🛠️ Projects
 Here are some of my key projects:
 - [**FoodOrderingSystem**](https://github.com/deepak3003/FoodOrderingSystem) - A Java-based system for placing food orders, calculating bills, and more.
 <!--
