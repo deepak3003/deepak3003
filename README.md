@@ -16,6 +16,9 @@ Here are some of my key projects:
 -->
 
 Feel free to reach out or explore my repositories. Thanks for visiting!
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepak3003&style=for-the-badge&color=red)
+
 <!--
 **deepak3003/deepak3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 📫 Connect with me
