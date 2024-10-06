@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **software developer**
 
 ## 🚀 About Me
 - 🎓 I’m currently pursuing my **B.Tech in Computer Science & Engineering (CSE)**.
-- 💻 I’m currently working on [FoodOrderingSystem].
+- 💻 I’m currently working on FoodOrderingSystem.
 - 🔭 I’m proficient in **Java, DSA, HTML, CSS**.
 
 ## 💼 Projects
