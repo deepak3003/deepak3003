@@ -1,7 +1,28 @@
-## Hi there 👋
+## Hi there! 👋, I'm Deepak Singh
 
+Welcome to my GitHub profile! I'm a passionate **software developer**
+
+## 🚀 About Me
+- 🎓 I’m currently pursuing my **B.Tech in Computer Science & Engineering (CSE)**.
+- - 💻 I’m currently working on [FoodOrderingSystem].
+- - 🔭 I’m proficient in **Java, DSA, HTML, CSS**.
+
+## 💼 Projects
+Here are some of my key projects:
+- [**FoodOrderingSystem**](https://github.com/deepak3003/FoodOrderingSystem) - A Java-based system for placing food orders, calculating bills, and more.
+
+Feel free to reach out or explore my repositories. Thanks for visiting!
 <!--
 **deepak3003/deepak3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Portfolio](https://yourportfolio.com) (if applicable)
+
+## 🛠️ Tech Stack
+- **Languages**: Java, HTML, CSS, Python, [any others]
+- **Frameworks**: [Framework 1], [Framework 2]
+- **Tools**: Git, GitHub, [other tools]
 
 Here are some ideas to get you started:
 
