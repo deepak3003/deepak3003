@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm a passionate **software developer**
 Here are some of my key projects:
 - [**FoodOrderingSystem**](https://github.com/deepak3003/FoodOrderingSystem) - A Java-based system for placing food orders, calculating bills, and more.
 
+## 💡 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak3003&show_icons=true&theme=radical)
+
 Feel free to reach out or explore my repositories. Thanks for visiting!
 <!--
 **deepak3003/deepak3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
