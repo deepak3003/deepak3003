@@ -1,6 +1,9 @@
 ## Hi there! 👋, I'm Deepak Singh
 
-Welcome to my GitHub profile! I'm a passionate **software developer**
+Welcome to my GitHub profile! 
+
+<!--
+I'm a passionate **software developer**
 
 ## 🚀 About Me
 - 🎓 I’m currently pursuing my **B.Tech in Computer Science & Engineering (CSE)**.
